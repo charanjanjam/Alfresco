@@ -1,0 +1,27 @@
+Examples with deployment.
+1.Extract ZIP file to find the src(Java files) and place it corresponding location in your SDK path.
+“repo-proj\src\main\java\com\cts\examples”
+2.It include context file configured list of beans and place it in corresponding location in your SDK path.
+“/demo-repo/src/main/amp/config/alfresco/module/demo-repo/context/webscript-context.xml”
+Please find list of URL for your lab exercise practice
+Creating Custom Actions-
+http://ecmarchitect.com/alfresco-developer-series-tutorials/actions/tutorial/tutorial.html
+http://docs.alfresco.com/5.2/references/dev-extension-points-actions.html
+
+Behaviors/Policies-
+http://docs.alfresco.com/5.2/references/dev-extension-points-behaviors.html
+http://ecmarchitect.com/alfresco-developer-series-tutorials/behaviors/tutorial/tutorial.html
+
+JavaScript Root Objects-
+http://docs.alfresco.com/5.2/references/dev-extension-points-javascript-root-objects.html
+http://docs.alfresco.com/5.2/references/API-JS-rootscoped.html
+
+Scheduled Jobs
+http://docs.alfresco.com/5.2/references/dev-extension-points-scheduled-jobs.html
+
+Workflows
+http://docs.alfresco.com/5.2/references/dev-extension-points-workflow.html
+http://ecmarchitect.com/alfresco-developer-series-tutorials/workflow/tutorial/tutorial.html
+Lucene Tutorials
+http://alfrescoblog.com/2014/07/09/alfresco-lucene-tutorial/
+http://simchaudhary.blogspot.in/2012/05/lucene-searching-in-alfresco.html
